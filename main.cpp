@@ -2,7 +2,7 @@
 	Name:       YOUR NAME GOES HERE
     Partner:    PARTNER'S NAME IF ANY
     Class:      example: CSC 1810 - Section 1
-*/
+*/THIS IS NOT A FINAL VERSION. IF YOU READ THIS, PLEASE STOP HERE AND REUPLOAD A FINAL VERSION
 
 #include <iostream>
 
